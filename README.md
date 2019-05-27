@@ -12,5 +12,5 @@ Neden Python? Yazılım geliştirmeye başlamak için en uygun dil. Öğrenmesi 
 
 Eğitmenlerin Blog Sayfaları:
 
-[Ercan Bozkurt](http://ercanbozkurt.blogspot.com/)
-[Hakan Yalçınkaya](https://hakanyalcinkaya.github.io/)
+- [Ercan Bozkurt](http://ercanbozkurt.blogspot.com/)
+- [Hakan Yalçınkaya](https://hakanyalcinkaya.github.io/)
